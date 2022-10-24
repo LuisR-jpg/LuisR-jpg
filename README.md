@@ -2,8 +2,8 @@
 
 <p align = "center">
     <a>
-        ![LuisR-jpg's github stats](https://github-readme-stats.vercel.app/api?username=LuisR-jpg&show_icons=true&theme=algolia&count_private=true)
-        ![LuisR-jpg's github activity graph](https://activity-graph.herokuapp.com/graph?username=LuisR-jpg&theme=react-dark)]
+        <img src = "![LuisR-jpg's github stats](https://github-readme-stats.vercel.app/api?username=LuisR-jpg&show_icons=true&theme=algolia&count_private=true)"/>
+        <img scr = "![LuisR-jpg's github activity graph](https://activity-graph.herokuapp.com/graph?username=LuisR-jpg&theme=react-dark)]"/>
     </a>
 </p>
 
