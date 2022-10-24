@@ -18,6 +18,27 @@
 <a href="https://twitter.com/LuisERoblesJ"><img src="https://img.shields.io/badge/-@LuisERoblesJ_-00ACEE?style=flat&logo=Twitter&logoColor=white"/></a>
 </p><br>
 
+<p align="center">
+
+ <div align="center">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/luiserj/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+        </a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/LuisR-jpg">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
+
+</p>
+
+
 <!--
 **LuisR-jpg/LuisR-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
