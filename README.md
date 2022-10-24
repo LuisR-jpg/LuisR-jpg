@@ -3,6 +3,7 @@
 <p align = "center">
     <a>
         <img width=auto src="https://github-readme-stats.vercel.app/api?username=LuisR-jpg&show_icons=true&theme=algolia&count_private=true"/>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuisR-jpg&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
         <img width=auto src="https://activity-graph.herokuapp.com/graph?username=LuisR-jpg&theme=react-dark"/>
     </a>
 </p>
