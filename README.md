@@ -11,12 +11,6 @@
 
 ## 💬 &nbsp;Let's chat
 
-<p align="center">
-<a href="https://www.linkedin.com/in/luiserj/"><img src="https://img.shields.io/badge/-luiserj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:0224969@up.edu.mx"><img src="https://img.shields.io/badge/-0224969@up.edu.mx-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/lalito_j/"><img src="https://img.shields.io/badge/-@lalito__j_-FFDC80?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/LuisERoblesJ"><img src="https://img.shields.io/badge/-@LuisERoblesJ_-00ACEE?style=flat&logo=Twitter&logoColor=white"/></a>
-</p><br>
 
 <p align="center">
 
@@ -40,6 +34,12 @@
 
 
 <!--
+<p align="center">
+<a href="https://www.linkedin.com/in/luiserj/"><img src="https://img.shields.io/badge/-luiserj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:0224969@up.edu.mx"><img src="https://img.shields.io/badge/-0224969@up.edu.mx-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/lalito_j/"><img src="https://img.shields.io/badge/-@lalito__j_-FFDC80?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/LuisERoblesJ"><img src="https://img.shields.io/badge/-@LuisERoblesJ_-00ACEE?style=flat&logo=Twitter&logoColor=white"/></a>
+</p><br>
 **LuisR-jpg/LuisR-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
