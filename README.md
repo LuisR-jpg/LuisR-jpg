@@ -1,7 +1,7 @@
 ### Hi there
 
 ![LuisR-jpg's github stats](https://github-readme-stats.vercel.app/api?username=LuisR-jpg&show_icons=true&theme=algolia&count_private=true)
-![LuisR-jpg's github activity graph](https://activity-graph.herokuapp.com/graph?username=LuisR-jpg)]
+![LuisR-jpg's github activity graph](https://activity-graph.herokuapp.com/graph?username=LuisR-jpg&theme=react_dark)]
 
 <!--
 **LuisR-jpg/LuisR-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
