@@ -1,9 +1,9 @@
-### Hi there
+<h1 align="center">Hi , I'm Luis</h1>
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align = "center">
-    <a href = "https://github.com/LuisR-jpg/LuisR-jpg">
+    <a href = "https://github.com/LuisR-jpg">
         <img width="75%" src="https://github-readme-stats.vercel.app/api?username=LuisR-jpg&show_icons=true&theme=algolia&count_private=true"/>
         <img width="75%" src="https://activity-graph.herokuapp.com/graph?username=LuisR-jpg&theme=react-dark"/>
     </a>
