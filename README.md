@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Luis</h1>
+<h1 align="center">Hi, I'm Luis</h1>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -9,7 +9,7 @@
     </a>
 </p>
 
-## 🤝🏻 &nbsp;Let's chat
+## 💬 &nbsp;Let's chat
 
 <p align="center">
 <a href="https://www.linkedin.com/in/luiserj/"><img src="https://img.shields.io/badge/-luiserj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
