@@ -2,7 +2,7 @@
 
 <p align = "center">
     <a>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisR-jpg&show_icons=true&theme=algolia&count_private=true"/>
+        <img width=auto src="https://github-readme-stats.vercel.app/api?username=LuisR-jpg&show_icons=true&theme=algolia&count_private=true"/>
         <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=LuisR-jpg&theme=react-dark"/>
     </a>
 </p>
