@@ -2,8 +2,8 @@
 
 <p align = "center">
     <a>
-        <img width="100" src="https://github-readme-stats.vercel.app/api?username=LuisR-jpg&show_icons=true&theme=algolia&count_private=true"/>
-        <img width="100" src="https://activity-graph.herokuapp.com/graph?username=LuisR-jpg&theme=react-dark"/>
+        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=LuisR-jpg&show_icons=true&theme=algolia&count_private=true"/>
+        <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=LuisR-jpg&theme=react-dark"/>
     </a>
 </p>
 
