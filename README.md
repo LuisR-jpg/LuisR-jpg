@@ -12,10 +12,10 @@
 ## 🤝🏻 &nbsp;Let's chat
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rafael-azizov-3612391b2/"><img src="https://img.shields.io/badge/-Rafael%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rafael.jr077@gmail.com"><img src="https://img.shields.io/badge/-rafael.jr077@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/lalito_j/"><img src="https://img.shields.io/badge/-@lalito_j_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.instagram.com/lalito_j/"><img src="https://img.shields.io/badge/-@lalito_j_-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/luiserj/"><img src="https://img.shields.io/badge/-luiserj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:0224969@up.edu.mx"><img src="https://img.shields.io/badge/-0224969@up.edu.mx-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/lalito_j/"><img src="https://img.shields.io/badge/-@lalito__j_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/LuisERoblesJ"><img src="https://img.shields.io/badge/-@LuisERoblesJ_-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
 </p><br>
 
 <!--
