@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Luis</h1>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;My GitHub Stats
 
 <p align = "center">
     <a href = "https://github.com/LuisR-jpg">
