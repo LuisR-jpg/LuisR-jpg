@@ -2,7 +2,7 @@
 
 <p align = "center">
     <a href = "https://github.com/LuisR-jpg">
-        <img width="30%" src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/GoogleandMe.gif"/>
+        <img width="45%" src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/GoogleandMe.gif"/>
     </a>
     <br></br>
         Learn more about this
