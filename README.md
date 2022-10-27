@@ -29,18 +29,10 @@ Take a look to what I've been working on...
 <table>
     <tr>
         <td>
-            <img src="background.png"  width="150%"/>
+            <img src="https://github.com/LuisR-jpg/ChessClock/blob/master/Clock.jpeg?raw=true"  width="150%"/>
         </td>
         <td>
-            I’m an Artificial Intelligence Engineering
-            student, passionate about
-            programming and its various tools to
-            facilitate problem solving. </br>
-            Currently a
-            student at Universidad Panamericana
-            with a profesional objective based on
-            web application development and
-            research 👩🏽‍💻
+            <img src="https://github.com/LuisR-jpg/School/blob/master/Optimizaci%C3%B3n%20y%20Metaheur%C3%ADsticas%20II/Evolutionary%20Computing/Differential%20Evolution/ImagesOutOfCircles/StarryNight/EnhancedStarryNight.gif"  width="150%"/>
         </td>
     </tr>
 </table>
