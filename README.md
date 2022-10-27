@@ -28,7 +28,7 @@ Take a look to what I've been working on...
 
 <table>
     <tr>
-        <td>
+        <td align = "center">
             <img src="https://github.com/LuisR-jpg/ChessClock/blob/master/Clock.jpeg?raw=true"  width="50%"/>
         </td>
         <td>
