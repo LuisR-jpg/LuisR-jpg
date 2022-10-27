@@ -4,6 +4,7 @@
     <a href = "https://github.com/LuisR-jpg">
         <img width="30%" src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/GoogleandMe.gif"/>
     </a>
+    <br></br>
     <a href = "https://github.com/LuisR-jpg/School/tree/master/Optimizaci%C3%B3n%20y%20Metaheur%C3%ADsticas%20II/Evolutionary%20Computing/Differential%20Evolution/ImagesOutOfCircles">Want to learn more about this project?</a>
 </p>
 
