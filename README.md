@@ -24,7 +24,7 @@
 
 ## ⌨️ &nbsp;Projects
 
-Take a look to what I've been working on...
+Take a look to what I've been busy with...
 
 <table>
     <tr>
