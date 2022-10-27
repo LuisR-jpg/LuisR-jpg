@@ -18,6 +18,8 @@
 - 🌮 I'm from Mexico.
 - 👁️ I'm currently learning about [computer vision and image manipulation](https://github.com/LuisR-jpg/School/tree/master/Agentes%20Inteligentes).
 - 👯 I'm open to collaborate on anything! Always looking for cool projects.
+- 🎥 I enjoy watching movies and playing sports (not good at it, tho).
+- [Say hello](https://github.com/LuisR-jpg#-lets-chat).
 
 ## ⌨️ &nbsp;Projects
 
