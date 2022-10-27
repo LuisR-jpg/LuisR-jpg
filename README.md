@@ -20,6 +20,7 @@
 - 👯 I'm open to collaborate on anything! Always looking for cool projects.
 - 🎥 I enjoy watching movies and playing sports (I'm not good at it, tho).
 - 🗨️ [Say hello](https://github.com/LuisR-jpg#-lets-chat).
+- 🦥 Fun fact: Nobody calls me Luis, actually, I've always been Lalito.
 
 ## ⌨️ &nbsp;Projects
 
