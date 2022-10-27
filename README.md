@@ -29,7 +29,7 @@ Take a look to what I've been working on...
 <table>
     <tr>
         <td align = "center" width = "50%">
-            <img src="https://github.com/LuisR-jpg/ChessClock/blob/master/Clock.jpeg?raw=true"/>
+            <img src="https://github.com/LuisR-jpg/ChessClock/blob/master/Clock.jpeg?raw=true" height = "100%"/>
         </td>
         <td align = "center" width = "50%">
             <img src="https://github.com/LuisR-jpg/School/blob/master/Optimizaci%C3%B3n%20y%20Metaheur%C3%ADsticas%20II/Evolutionary%20Computing/Differential%20Evolution/ImagesOutOfCircles/StarryNight/EnhancedStarryNight.gif"/>
