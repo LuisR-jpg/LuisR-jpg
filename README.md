@@ -16,12 +16,33 @@
 
 - 🔭 I study Artificial Intelligence in Universidad Panamericana.
 - 🌮 I'm from Mexico.
-- 👁️ I'm currently learning about [computer vision and image manipulation](https://github.com/LuisR-jpg/School/tree/master/Agentes%20Inteligentes).
+- 👁️ I'm currently learning about [computer vision and image manipulation](https://github.com/LuisR-jpg/ComputerVision).
 - 👯 I'm open to collaborate on anything! Always looking for cool projects.
 - 🎥 I enjoy watching movies and playing sports (I'm not good at it, tho).
 - 🗨️ [Say hello](https://github.com/LuisR-jpg#-lets-chat).
 
 ## ⌨️ &nbsp;Projects
+
+Take a look to what I've been working on...
+
+<table>
+    <tr>
+        <td>
+            <img src="background.png"  width="150%"/>
+        </td>
+        <td>
+            I’m an Artificial Intelligence Engineering
+            student, passionate about
+            programming and its various tools to
+            facilitate problem solving. </br>
+            Currently a
+            student at Universidad Panamericana
+            with a profesional objective based on
+            web application development and
+            research 👩🏽‍💻
+        </td>
+    </tr>
+</table>
 
 ## ⚙️ &nbsp;GitHub Stats
 
