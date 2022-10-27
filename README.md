@@ -32,7 +32,7 @@ Take a look to what I've been working on...
             <img src="https://github.com/LuisR-jpg/ChessClock/blob/master/Clock.jpeg?raw=true"  width="50%"/>
         </td>
         <td>
-            <img src="https://github.com/LuisR-jpg/School/blob/master/Optimizaci%C3%B3n%20y%20Metaheur%C3%ADsticas%20II/Evolutionary%20Computing/Differential%20Evolution/ImagesOutOfCircles/StarryNight/EnhancedStarryNight.gif"  width="50%"/>
+            <img src="https://github.com/LuisR-jpg/School/blob/master/Optimizaci%C3%B3n%20y%20Metaheur%C3%ADsticas%20II/Evolutionary%20Computing/Differential%20Evolution/ImagesOutOfCircles/StarryNight/EnhancedStarryNight.gif"  width="150%"/>
         </td>
     </tr>
 </table>
