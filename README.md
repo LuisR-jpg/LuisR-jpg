@@ -57,7 +57,7 @@ Take a look to what I've been busy with...
     </tr>
     <tr>
         <td align = "center" width = "50%">
-            Cibersecurity
+            <h3>Cibersecurity</h3>
         </td>
         <td align = "center" width = "50%">
             Deep learning
