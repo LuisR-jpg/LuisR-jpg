@@ -38,6 +38,7 @@ Take a look to what I've been busy with...
             </a>
         </td>
         <td align = "center" width = "50%">
+            <h3>Circly</h3>
             <img src="https://github.com/LuisR-jpg/School/blob/master/Optimizaci%C3%B3n%20y%20Metaheur%C3%ADsticas%20II/Evolutionary%20Computing/Differential%20Evolution/ImagesOutOfCircles/StarryNight/EnhancedStarryNight.gif"/>
             <br></br>
             Can computers do art? It's not such an easy thing to answer,
