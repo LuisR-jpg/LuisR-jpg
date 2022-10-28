@@ -58,6 +58,10 @@ Take a look to what I've been busy with...
     <tr>
         <td align = "center" width = "50%">
             <h3>Cibersecurity</h3>
+            <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/InProgress.jpg?raw=true"/>
+            <br></br>
+            - CTF
+            - Project
         </td>
         <td align = "center" width = "50%">
             Deep learning
