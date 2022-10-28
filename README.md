@@ -29,6 +29,7 @@ Take a look to what I've been busy with...
 <table>
     <tr>
         <td align = "center" width = "50%">
+            <h3>Chess Clock</h3>
             <img src="https://github.com/LuisR-jpg/ChessClock/blob/master/Clock.jpeg?raw=true"/>
             <br></br>
             At the time that I was really into chess, the blitz mode was a whole other level to have fun and playing with my friends during High School. Then I realised that I wanted a Chess Clock so bad, and I was all set to buy one, but... 
