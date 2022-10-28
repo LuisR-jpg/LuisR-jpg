@@ -60,8 +60,12 @@ Take a look to what I've been busy with...
             <h3>Cibersecurity</h3>
             <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/InProgress.jpg?raw=true"/>
             <br></br>
-            - CTF
-            - Project
+            It's not that I'm the best hacker ever, but I know what Capture the Flag is and I like to have a challenge every now and then.
+            <br>
+            <a href = "">
+                Would you like to see
+            </a>
+            how my team and I used social engineering and a USB to get someone's beloved passwords?
         </td>
         <td align = "center" width = "50%">
             Deep learning
