@@ -35,6 +35,14 @@ Take a look to what I've been busy with...
             <img src="https://github.com/LuisR-jpg/School/blob/master/Optimizaci%C3%B3n%20y%20Metaheur%C3%ADsticas%20II/Evolutionary%20Computing/Differential%20Evolution/ImagesOutOfCircles/StarryNight/EnhancedStarryNight.gif"/>
         </td>
     </tr>
+    <tr>
+        <td align = "center" width = "50%">
+            Cibersecurity
+        </td>
+        <td align = "center" width = "50%">
+            Deep learning
+        </td>
+    </tr>
 </table>
 
 ## ⚙️ &nbsp;GitHub Stats
