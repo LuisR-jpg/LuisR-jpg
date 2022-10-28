@@ -4,7 +4,7 @@
     <a href = "https://github.com/LuisR-jpg">
         <img width="45%" src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/GoogleandMe.gif"/>
     </a>
-    <br></br>
+    <br>
         Learn more about this
         <a href = "https://github.com/LuisR-jpg/School/tree/master/Optimizaci%C3%B3n%20y%20Metaheur%C3%ADsticas%20II/Evolutionary%20Computing/Differential%20Evolution/ImagesOutOfCircles">
             project
@@ -20,7 +20,7 @@
 - 👯 I'm open to collaborate on anything! Always looking for cool projects.
 - 🎥 I enjoy watching movies and playing sports (I'm not good at it, tho).
 - 🗨️ [Say hello](https://github.com/LuisR-jpg#-lets-chat).
-- 🦥 Fun fact: Nobody calls me Luis, actually, I've always been Lalito.
+- 🦥 Fun fact: Nobody calls me Luis, actually. I've always been Lalito.
 
 ## ⌨️ &nbsp;Projects
 
@@ -30,6 +30,7 @@ Take a look to what I've been busy with...
     <tr>
         <td align = "center" width = "50%">
             <img src="https://github.com/LuisR-jpg/ChessClock/blob/master/Clock.jpeg?raw=true"/>
+            <br>
         </td>
         <td align = "center" width = "50%">
             <img src="https://github.com/LuisR-jpg/School/blob/master/Optimizaci%C3%B3n%20y%20Metaheur%C3%ADsticas%20II/Evolutionary%20Computing/Differential%20Evolution/ImagesOutOfCircles/StarryNight/EnhancedStarryNight.gif"/>
