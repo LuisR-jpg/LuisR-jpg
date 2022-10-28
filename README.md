@@ -36,8 +36,9 @@ Take a look to what I've been busy with...
         <td align = "center" width = "50%">
             <img src="https://github.com/LuisR-jpg/School/blob/master/Optimizaci%C3%B3n%20y%20Metaheur%C3%ADsticas%20II/Evolutionary%20Computing/Differential%20Evolution/ImagesOutOfCircles/StarryNight/EnhancedStarryNight.gif"/>
             <br></br>
-            Can computers do art? It's not such an easy thing to answer, but undeniably this project that takes an image and makes it look alike by drawing a bunch of circles gives some interesting things to talk about.
-            <br>
+            Can computers do art? It's not such an easy thing to answer,
+            but undeniably this project that takes an image and makes it look alike
+            by drawing a bunch of circles gives some interesting things to talk about.
             [Come by]("https://github.com/LuisR-jpg/School/tree/master/Optimizaci%C3%B3n%20y%20Metaheur%C3%ADsticas%20II/Evolutionary%20Computing/Differential%20Evolution/ImagesOutOfCircles") to see how [Sara](https://github.com/saracarolina12) and I made this possible.            
         </td>
     </tr>
