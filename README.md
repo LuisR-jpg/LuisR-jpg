@@ -78,7 +78,7 @@ Take a look to what I've been busy with...
         </td>
         <td align = "center" width = "50%">
             <h3>?</h3>
-            <br>
+            <br></br>
             <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/QuestionMark.gif?raw=true"/>
             Coming soon!
         </td>
