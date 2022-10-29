@@ -78,6 +78,7 @@ Take a look to what I've been busy with...
         </td>
         <td align = "center" width = "50%">
             <h3>?</3>
+            
             What should I be doing now? 
             Contact me and share your thoughts!
         </td>
