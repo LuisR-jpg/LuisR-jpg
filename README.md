@@ -58,7 +58,7 @@ Take a look to what I've been busy with...
     <tr>
         <td align = "center" width = "50%">
             <h3>Cibersecurity</h3>
-            <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/Loading.gif?raw=true"/>
+            <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/LoadingDrops.gif?raw=true"/>
             <br></br>
             It's not that I'm the best hacker ever, but I know what Capture the Flag is and I like to have a challenge every now and then.
             <br>
