@@ -79,7 +79,7 @@ Take a look to what I've been busy with...
         <td align = "center" width = "50%">
             <h3>?</3>
             <br>
-            What should I be doing now? 
+            What do you think I'm currently working on? 
             Contact me and share your thoughts!
         </td>
     </tr>
