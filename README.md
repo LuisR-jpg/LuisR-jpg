@@ -75,6 +75,7 @@ Take a look to what I've been busy with...
     <tr>
         <td align = "center" width = "50%">
             <h3>Google</h3>
+            <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/Trip.jpg?raw=true"/>
         </td>
         <td align = "center" width = "50%">
             <h3>?</h3>
