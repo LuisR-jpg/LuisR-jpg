@@ -68,15 +68,18 @@ Take a look to what I've been busy with...
             how my team and I used social engineering and a USB to get someone's beloved passwords?
         </td>
         <td align = "center" width = "50%">
-            Deep learning
+            <h3>Deep learning</h3>
+            <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/LoadingDrops.gif?raw=true"/>
         </td>
     </tr>
     <tr>
         <td align = "center" width = "50%">
-            Google
+            <h3>Google</h3>
         </td>
         <td align = "center" width = "50%">
-            ?
+            <h3>?</3>
+            What should I be doing now? 
+            Contact me and share your thoughts!
         </td>
     </tr>
 </table>
