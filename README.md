@@ -68,7 +68,7 @@ Take a look to what I've been busy with...
             how my team and I used social engineering and a USB to get someone's beloved passwords?
         </td>
         <td align = "center" width = "50%">
-            <h3>Deep learning</h3>
+            <h3>Artificial Intelligence</h3>
             <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/LoadingDrops.gif?raw=true"/>
         </td>
     </tr>
