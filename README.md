@@ -77,9 +77,7 @@ Take a look to what I've been busy with...
             <h3>Google</h3>
             <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/Trip.jpg?raw=true"/>
             <br></br>
-            I had the opportunity of an internship in Google for Summer 2022.
-            <br>
-            It was an awesome experience, undoubtely; and I learned a lot of things.
+            I had the amazing opportunity of an internship in Google for Summer 2022.
             <br>
             Used golang and worked closely to testing with the EngProd team.
         </td>
