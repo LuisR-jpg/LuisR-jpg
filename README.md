@@ -80,7 +80,7 @@ Take a look to what I've been busy with...
             <h3>?</3>
             <br>
             <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/QuestionMark.gif?raw=true"/>
-            What do you think I'm currently working on? 
+            Coming soon!
         </td>
     </tr>
 </table>
