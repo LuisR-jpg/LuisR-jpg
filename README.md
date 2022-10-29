@@ -70,6 +70,9 @@ Take a look to what I've been busy with...
         <td align = "center" width = "50%">
             <h3>Artificial Intelligence</h3>
             <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/LoadingDrops.gif?raw=true"/>
+            <br></br>
+            Of course my portfolio needs at least a glimpse of what my major is.
+            I'm currently into <i>Evolutionary Computation</i> but this is just the beginning. Currently, my focus is on this topic.
         </td>
     </tr>
     <tr>
