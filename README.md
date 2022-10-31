@@ -14,11 +14,11 @@
 
 ## 🥷 &nbsp;About Me
 
-- 🔭 I study Artificial Intelligence in Universidad Panamericana.
-- 🌮 I'm from Mexico.
-- 👁️ I'm currently learning about [computer vision and image manipulation](https://github.com/LuisR-jpg/ComputerVision).
-- 👯 I'm open to collaborate on anything! Always looking for cool projects.
-- 🎥 I enjoy watching movies and playing sports (I'm not good at it, tho).
+- 🔭 Currently studying Artificial Intelligence at Universidad Panamericana.
+- 🌮 Born and raised in Mexico.
+- 👁️ Currently learning [computer vision and image manipulation](https://github.com/LuisR-jpg/ComputerVision).
+- 👯 Always looking for cool projects to collaborate on.
+- 🎥 Pass my time watching movies and playing sports (I'm not good at it, tho).
 - 🗨️ [Say hello](https://github.com/LuisR-jpg#-lets-chat).
 - 🦥 Fun fact: Nobody calls me Luis, actually. I've always been Lalito.
 
@@ -32,7 +32,7 @@ Take a look at what I've been busy with...
             <h3>Chess Clock</h3>
             <img src="https://github.com/LuisR-jpg/ChessClock/blob/master/Clock.jpeg?raw=true"/>
             <br></br>
-            At the time that I was really into chess, the blitz mode was a whole other level to have fun and playing with my friends during High School. Then I realised that I wanted a Chess Clock so bad, and I was all set to buy one, but... 
+            At the time that I was really into chess, the blitz mode was a whole other level to have fun and to play with my friends during high school. Then I realised that I wanted a Chess Clock so badly, and I was all set to buy one, but... 
             <a href="https://github.com/LuisR-jpg/ChessClock">
                 Continue reading.
             </a>
@@ -60,7 +60,7 @@ Take a look at what I've been busy with...
             <h3>Cibersecurity</h3>
             <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/LoadingDrops.gif?raw=true"/>
             <br></br>
-            It's not that I'm the best hacker ever, but I know what Capture the Flag is and I like to have a challenge every now and then.
+            It's not that I'm the best hacker ever, but I know what capture the flag is; and I like a good challenge every now and then.
             <br>
             <a href = "">
                 Would you like to see
@@ -72,7 +72,7 @@ Take a look at what I've been busy with...
             <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/LoadingDrops.gif?raw=true"/>
             <br></br>
             Of course my portfolio needs at least a glimpse of what my major is.
-            I'm currently into <i>Evolutionary Computation</i> but this is just the beginning. Currently, my focus is on this topic.
+            Currently, my focus is <i>Evolutionary Computation</i> but this is just the beginning.
         </td>
     </tr>
     <tr>
