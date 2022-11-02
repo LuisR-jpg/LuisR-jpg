@@ -6,7 +6,7 @@
     </a>
     <br>
     Learn more about this
-    <a href = "https://github.com/LuisR-jpg/School/tree/master/Optimizaci%C3%B3n%20y%20Metaheur%C3%ADsticas%20II/Evolutionary%20Computing/Differential%20Evolution/ImagesOutOfCircles">
+    <a href = "https://github.com/LuisR-jpg/School/blob/master/Optimizaci%C3%B3n%20y%20Metaheur%C3%ADsticas%20II/Evolutionary%20Computing/Differential%20Evolution/ImagesOutOfCircles/README.md">
         project
     </a>
     
@@ -45,7 +45,7 @@ Take a look at what I've been busy with...
             but undeniably this project that takes an image and makes a look alike
             by drawing a bunch of circles gives some interesting things to talk about.
             <br>
-            <a href = "https://github.com/LuisR-jpg/School/tree/master/Optimizaci%C3%B3n%20y%20Metaheur%C3%ADsticas%20II/Evolutionary%20Computing/Differential%20Evolution/ImagesOutOfCircles">
+            <a href = "https://github.com/LuisR-jpg/School/blob/master/Optimizaci%C3%B3n%20y%20Metaheur%C3%ADsticas%20II/Evolutionary%20Computing/Differential%20Evolution/ImagesOutOfCircles/README.md">
                 Come by
             </a>
             to see how
