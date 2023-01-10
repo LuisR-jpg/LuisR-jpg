@@ -99,7 +99,6 @@ Take a look at what I've been busy with...
 <p align = "center">
     <a href = "https://github.com/LuisR-jpg">
         <img width="75%" src="https://github-readme-stats.vercel.app/api?username=LuisR-jpg&show_icons=true&theme=algolia&count_private=true"/>
-        <img width="75%" src="https://activity-graph.herokuapp.com/graph?username=LuisR-jpg&theme=react-dark"/>
     </a>
 </p>
 
