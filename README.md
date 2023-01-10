@@ -119,7 +119,7 @@ Take a look at what I've been busy with...
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC1dVPLIMDKKYl3aSfhOhxOw?view_as=subscriber">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/CV.pdf">
-                <img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+                <img src="https://img.icons8.com/plasticine/40/resume.png" ></a>
       </div>
 
 </p>
