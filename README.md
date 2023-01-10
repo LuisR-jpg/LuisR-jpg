@@ -58,14 +58,14 @@ Take a look at what I've been busy with...
     <tr>
         <td align = "center" width = "50%">
             <h3>Cibersecurity</h3>
-            <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/LoadingDrops.gif?raw=true"/>
+            <img src="https://github.com/LuisR-jpg/USB-Attack/raw/main/docs/USBImage.jpg"/>
             <br></br>
             It's not that I'm the best hacker ever, but I know what capture the flag is; and I like a good challenge every now and then.
             <br>
-            <a href = "">
-                Would you like to see
+            <a href = "https://github.com/LuisR-jpg/USB-Attack">
+                See
             </a>
-            how my team and I used social engineering and a USB to get someone's beloved passwords?
+            how my team and I used social engineering and a USB to get someone's beloved passwords.
         </td>
         <td align = "center" width = "50%">
             <h3>Artificial Intelligence</h3>
