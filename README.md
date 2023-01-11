@@ -69,7 +69,7 @@ Take a look at what I've been busy with...
         </td>
         <td align = "center" width = "50%">
             <h3>Artificial Intelligence</h3>
-            <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/LoadingDrops.gif?raw=true"/>
+            <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/2ndThematicSchool.jpg?raw=true"/>
             <br></br>
             This field is what I'm currently the most interested in. Have taken courses on:
             <ul>
