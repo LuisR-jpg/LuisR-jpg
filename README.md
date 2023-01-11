@@ -71,8 +71,12 @@ Take a look at what I've been busy with...
             <h3>Artificial Intelligence</h3>
             <img src="https://github.com/LuisR-jpg/LuisR-jpg/blob/main/LoadingDrops.gif?raw=true"/>
             <br></br>
-            Of course my portfolio needs at least a glimpse of what my major is.
-            Currently, my focus is <i>Evolutionary Computation</i>, but this is just the beginning.
+            This field is what I'm currently the most interested in. Have taken courses on:
+            <ul>
+                <li>Deep learning</li>
+                <li>Evolutionary Computation</li>
+                <li>Artificial Vision</li>
+            </ul>            
         </td>
     </tr>
     <tr>
